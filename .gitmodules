@@ -1,0 +1,3 @@
+[submodule "sncovid"]
+	path = sncovid
+	url = https://github.com/amdiakhate/sncovid.git
